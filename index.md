@@ -72,3 +72,10 @@ layout: default
 *   **手机解锁：** 确认你的手机是“无锁”状态（SIM-free / unlocked），别让国内合约机困住你。
 *   **“区域包”陷阱：** 有些套餐流量分“波兰境内”和“欧盟漫游”，看清楚条款。在波兰境内用，选本地流量包就行。
 *   **保管好小票 (Paragon)：** 有时
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Poland eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/poland-data-plans)
